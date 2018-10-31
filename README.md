@@ -1,0 +1,1 @@
+This project was compressed JS for [Mikdan Tech Solution Promo](https://mikdantech.github.io).
